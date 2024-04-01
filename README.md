@@ -1,1 +1,1 @@
-deploy: https://agamasha.github.io/nonorgams/
+deploy: https://agamasha.github.io/nonograms/
